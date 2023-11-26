@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cricket SI Task</string>
+    <string name="icc_odi">ICC ODI 2023</string>
+    <string name="complete_details">Complete Details</string>
+</resources>
